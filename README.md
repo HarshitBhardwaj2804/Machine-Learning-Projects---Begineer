@@ -5,7 +5,7 @@ This repository is based on a challenge that I given to myself when I start my m
 
 In this Challenge I had created 30 beginner friendly ML projects which will enhance skills including data-preprocessing, model creation , performance validation and hyper-paprameter tunning. 
 
-I had used datasets from [kaggle](https://www.kaggle.com/) and preforms the Machine Learning task(regression, classification & clustring) as per the problem statements. 
+I had used datasets from [kaggle](https://www.kaggle.com/) and preforms the Machine Learning task(regression, classification & clustring) as per the given problem statements. 
 
 List of Projects:-
 1. Rocks & Mines prediction using Sonar Dataset.
