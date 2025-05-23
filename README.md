@@ -10,4 +10,5 @@ I had used datasets from [kaggle](https://www.kaggle.com/) and preforms the Mach
 List of Projects:-
 1. Rocks & Mines prediction using Sonar Dataset.
 2. Diabetes predication.
-3. Loan Default Prediction 
+3. Loan Default Prediction.
+4. Fake-news Prediction.
