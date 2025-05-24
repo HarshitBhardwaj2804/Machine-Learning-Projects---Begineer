@@ -11,4 +11,4 @@ List of Projects:-
 1. Rocks & Mines prediction using Sonar Dataset.
 2. Diabetes predication.
 3. Loan Default Prediction.
-4. Fake-news Prediction.
+4. California House Price Prediction.
