@@ -12,3 +12,4 @@ List of Projects:-
 2. Diabetes predication.
 3. Loan Default Prediction.
 4. California House Price Prediction.
+5. Flight Price Prediction.
