@@ -13,6 +13,11 @@ List of Projects:-
 3. Loan Default Prediction.
 4. California House Price Prediction.
 5. Flight Price Prediction.
-6. Extrovert vs. Introvert Behavior Data Prediction
-7. Brain stroke prediction
-   
+6. Extrovert vs. Introvert Behavior Data Prediction.
+7. Brain stroke prediction.
+8. Used car price predication.
+9. Medical insurance cost prediction.
+10. Concrete strength prediction.
+11. Android malware detection preject.
+12. Wine quality prediction.
+13. 
