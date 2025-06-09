@@ -14,4 +14,5 @@ List of Projects:-
 4. California House Price Prediction.
 5. Flight Price Prediction.
 6. Extrovert vs. Introvert Behavior Data Prediction
+7. Brain stroke prediction
    
