@@ -15,9 +15,11 @@ List of Projects:-
 5. Flight Price Prediction.
 6. Extrovert vs. Introvert Behavior Data Prediction.
 7. Brain stroke prediction.
-8. Used car price predication.
+8. Concrete strength prediction.
 9. Medical insurance cost prediction.
-10. Concrete strength prediction.
-11. Android malware detection preject.
-12. Wine quality prediction.
-13. 
+10. CarDekho Used car price predication (Vol.1)
+11. CarDekho Used car price predication (Vol.2)
+12. CarDekho Used car price predication (Vol.3)
+13. CarDekho Used car price predication (Vol.4)
+14. Android malware detection preject.
+15. Wine quality prediction.
