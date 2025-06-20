@@ -3,12 +3,13 @@ Instructions to make this project.
    
 2. To load the dataset run the following,
      Code Snippet - 1:
+   
          ![image](https://github.com/user-attachments/assets/cb26f50d-5612-41cb-8e5f-7050f2f99aba)
 
    Code Snippet - 1 Output:
          ![image](https://github.com/user-attachments/assets/5be1c28e-d0e6-4b71-91b3-84e909d2d9e4)
 
-3. To load the "Google new-300 Word2Vec model" (deep learning model created by google to convert text into numeric format i.e. int/float(called vectors) run the following,
+4. To load the "Google new-300 Word2Vec model" (deep learning model created by google to convert text into numeric format i.e. int/float(called vectors) run the following,
      Code Snippet - 2:
          ![image](https://github.com/user-attachments/assets/2fd47cb4-a004-491e-908b-023dbbcfa05f)
 
