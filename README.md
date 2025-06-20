@@ -21,5 +21,7 @@ List of Projects:-
 11. CarDekho Used car price predication (Vol.2)
 12. CarDekho Used car price predication (Vol.3)
 13. CarDekho Used car price predication (Vol.4)
-14. Android malware detection preject.
-15. Wine quality prediction.
+14. Spam Mail Classification using Natural-Language-Processing(NLP).
+15. Amazon kindle review analysis with NLP.
+16. Android malware detection preject.
+17. Wine quality prediction.
