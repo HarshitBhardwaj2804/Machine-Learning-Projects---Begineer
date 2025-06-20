@@ -3,31 +3,23 @@ Instructions to make this project.
    
 2. To load the dataset run the following,
      Code Snippet - 1:
-         import kagglehub
-         # Download latest version
-         path = kagglehub.dataset_download("bharadwaj6/kindle-reviews")
-         print("Path to dataset files:", path)
-         import pandas as pd
-         import os
-         file_name = 'kindle_reviews.csv'
-         full_file_path = os.path.join(path, file_name)
-         df = pd.read_csv(full_file_path)
-         df.head()
+         ![image](https://github.com/user-attachments/assets/cb26f50d-5612-41cb-8e5f-7050f2f99aba)
+
    Code Snippet - 1 Output:
          ![image](https://github.com/user-attachments/assets/5be1c28e-d0e6-4b71-91b3-84e909d2d9e4)
 
 3. To load the "Google new-300 Word2Vec model" (deep learning model created by google to convert text into numeric format i.e. int/float(called vectors) run the following,
      Code Snippet - 2:
-         pip install gensim (if you are installing form command promt/pwoershell)
-         !pip install gensim (if you are installing from the notebook enviroment)
+         ![image](https://github.com/user-attachments/assets/2fd47cb4-a004-491e-908b-023dbbcfa05f)
+
      Code Snippet - 2 output:
            requirement already satisfied (if you already downloaded)
                       OR
            some message will telling downloaing has been completed.
 
      Code Snippet - 3:
-         import gensim.downloader as api
-         model = api.load("word2vec-google-news-300")
+         ![image](https://github.com/user-attachments/assets/b342d97f-78bb-454d-856e-04d696f9e284)
+
       Code Snippet - 3 output:
          ![image](https://github.com/user-attachments/assets/35c44a2d-b4ca-4648-864a-c9b39522c3ed)
 
